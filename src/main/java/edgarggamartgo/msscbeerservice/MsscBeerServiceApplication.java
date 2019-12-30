@@ -8,12 +8,7 @@ public class MsscBeerServiceApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MsscBeerServiceApplication.class, args);
-        System.out.println("HEY!!!");
-        System.out.println("HEY2!!!");
-        System.out.println("HEY2!!!");
-        System.out.println("HEY2!!!");
-        System.out.println("HEY2!!!");
-        System.out.println("HEY2!!!");
+
 
     }
 
